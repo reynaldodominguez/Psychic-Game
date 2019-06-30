@@ -1,0 +1,42 @@
+body{
+    background:url(../images/background.jpg);
+}
+
+#maingame{
+    margin-top: 50px;
+    text-align: center;
+}
+#title{
+    font-size: 100px;
+    margin-bottom: 0px;
+
+}
+
+#info{
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+#line-1{
+    font-size: 30px;
+    letter-spacing: 10px;
+    color: green;
+    font-weight: bold;
+    
+}
+#line-2{
+    font-size: 30px;
+    letter-spacing: 10px;
+    color: red;
+    font-weight: bold;
+}
+#line-3{
+    font-size: 30px;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+#line-4{
+    font-size: 30px;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
